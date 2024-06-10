@@ -10,3 +10,7 @@ The builder can refer to additional code and notes:
 - Examples folder in Car Base Board repository for generic Car Base Board code and notes
 
 2024-06-04
+
+To be added soon a video and instructions showing how to assemble the Components.
+
+2024-06-10
