@@ -14,7 +14,9 @@ For example:
 
 Code .....
 ..........
+
 #test() 
+
 test(2)
 
 Using Thonny is suggested as you can modify the code and run it from within Thonny.
